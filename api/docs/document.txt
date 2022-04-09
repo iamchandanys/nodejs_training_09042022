@@ -1,0 +1,5 @@
+npm i config //Node-config organizes hierarchical configurations for your app deployments.
+
+Command to set Node Environment:
+WINDOWS: set NODE_ENV=production/development/staging
+MAC: export NODE_ENV=production/development/staging

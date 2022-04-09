@@ -1,0 +1,7 @@
+{
+    "name": "node js sample project - production",
+    "sqlConnection": {
+        "dbName": "db-production",
+        "dbPassword": ""
+    }
+}
